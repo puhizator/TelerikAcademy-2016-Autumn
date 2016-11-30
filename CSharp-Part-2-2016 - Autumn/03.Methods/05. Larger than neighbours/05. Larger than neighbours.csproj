@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D3420755-3639-4D6A-A6BF-7E4A924AD9BA}</ProjectGuid>
+    <ProjectGuid>{55CD71E2-DEEA-44FA-AFEA-6C54D7479D63}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_01.Say_Hello</RootNamespace>
-    <AssemblyName>_01.Say_Hello</AssemblyName>
+    <RootNamespace>_05.Larger_than_neighbours</RootNamespace>
+    <AssemblyName>_05.Larger_than_neighbours</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="01. Say Hello.cs" />
+    <Compile Include="05. Larger than neighbours.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
