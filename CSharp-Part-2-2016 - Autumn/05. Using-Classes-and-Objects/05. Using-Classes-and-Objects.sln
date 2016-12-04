@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Leap year", "01. Leap y
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Triangle surface by side and altitude", "04. Triangle surface by side and altitude\04. Triangle surface by side and altitude.csproj", "{B9A005B3-0C2E-4177-8508-C0227576F80A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Triangle surface by three sides", "05. Triangle surface by three sides\05. Triangle surface by three sides.csproj", "{3EB8D678-8071-46E5-A9FF-BAB96AC3DA5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Surface by two sides and angle", "06. Surface by two sides and angle\06. Surface by two sides and angle.csproj", "{06E319F0-21C2-4F99-BA39-4BFBDFEB38A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Sum integers", "08. Sum integers\08. Sum integers.csproj", "{5849BFDD-E24E-459F-9808-A59C3E72779A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{B9A005B3-0C2E-4177-8508-C0227576F80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9A005B3-0C2E-4177-8508-C0227576F80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9A005B3-0C2E-4177-8508-C0227576F80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB8D678-8071-46E5-A9FF-BAB96AC3DA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB8D678-8071-46E5-A9FF-BAB96AC3DA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB8D678-8071-46E5-A9FF-BAB96AC3DA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB8D678-8071-46E5-A9FF-BAB96AC3DA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E319F0-21C2-4F99-BA39-4BFBDFEB38A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E319F0-21C2-4F99-BA39-4BFBDFEB38A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E319F0-21C2-4F99-BA39-4BFBDFEB38A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E319F0-21C2-4F99-BA39-4BFBDFEB38A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5849BFDD-E24E-459F-9808-A59C3E72779A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5849BFDD-E24E-459F-9808-A59C3E72779A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5849BFDD-E24E-459F-9808-A59C3E72779A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5849BFDD-E24E-459F-9808-A59C3E72779A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
